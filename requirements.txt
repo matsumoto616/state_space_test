@@ -1,0 +1,8 @@
+numpy
+pandas
+ydata-profiling
+statsmodels
+plotly
+jupyter
+ipykernel
+pytest
